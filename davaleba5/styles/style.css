@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 300px;
+    padding: 5px;
+}
+.column{
+padding: 5px;
+}
+.column1 {
+    width: 33.33%;
+    float: left;
+   
+
+}
+.column2 {
+    width: 33.33%;
+    float: left;
+   
+}
+.column3 {
+    width: 33.33%;
+    float: right;
+}
+th {
+    background-color:  rgb(242, 164, 177);
+}
+td {
+    background-color: rgb(156, 202, 245);
+}
+table {
+    border: dashed;
+}
