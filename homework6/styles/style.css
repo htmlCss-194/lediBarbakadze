@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    background-color: #959190;
+    padding: 5px;
+}
+div {
+    display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+img {
+    width: 300px;
+    padding: 5px;  
+}
+img:hover {
+    padding: 10px;
+    margin: 10px;
+}
+#text {
+    text-align: center;
+}
+table {
+    border: solid 2px;
+    
+}
+tr {
+    border-bottom: solid 1px;
+}
+td {
+    border: solid 1px;
+}
+th {
+    border: solid 1px;
+}
+td:hover {
+    color: rgb(21, 21, 240);
+    font-weight: bold;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+#submit:hover {
+    background-color: rgb(210, 76, 76);
+}
+#submit:active {
+    border-radius: 100%;
+}
+#veli:hover {
+    background-color: rgb(138, 138, 212);
+}
+#veli:focus {
+   padding: 5px;
+}

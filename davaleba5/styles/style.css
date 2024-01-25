@@ -4,7 +4,7 @@ header {
 
 div {
     display: flex;
-    justify-content: center;
+   justify-content: center;
 }
 img {
     width: 300px;
@@ -16,13 +16,10 @@ padding: 5px;
 .column1 {
     width: 33.33%;
     float: left;
-   
-
 }
 .column2 {
     width: 33.33%;
     float: left;
-   
 }
 .column3 {
     width: 33.33%;
